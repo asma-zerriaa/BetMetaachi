@@ -1,0 +1,15 @@
+/* Conteneur sidebar */
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+/* Style des cartes */
+.card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-radius: 8px;
+}
